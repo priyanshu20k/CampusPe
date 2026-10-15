@@ -2,6 +2,8 @@
 
 CampusPe is an interactive, modern web platform designed for India's student placement ecosystem, AI campus discovery, and employer recruitment. It bridges students, colleges, and hiring partners with real-time matching, automated resume assessment, and direct hiring pipelines.
 
+[![Live App](https://shields.io)](https://campus-pe-phi.vercel.app/) 
+
 ## 🚀 Features
 
 * **Dynamic Hero & Live Matching Feeds:** Interactive cards highlighting daily student shortlist updates, recruiter verification, and instant match statistics.
